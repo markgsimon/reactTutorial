@@ -1,6 +1,6 @@
 simple todo list of tasks for website
 
- figure out signing my commits ugghhh
+think i figured it out figure out signing my commits ugghhh
 
 
 
