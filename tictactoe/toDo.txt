@@ -1,5 +1,9 @@
 simple todo list of tasks for website
 
+ figure out signing my commits ugghhh
+
+
+
 
 add basic front page
 
