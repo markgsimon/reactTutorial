@@ -1,0 +1,18 @@
+simple todo list of tasks for website
+
+
+add basic front page
+
+make design for basic three page layout
+
+	front page
+
+	about me
+
+	portfolio
+
+	resume
+
+	blog
+
+
